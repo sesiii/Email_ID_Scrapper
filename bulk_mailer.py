@@ -8,8 +8,7 @@
 
 # app.config["MAIL_SERVER"]='smtp.gmail.com'
 # app.config["MAIL_PORT"]=465
-# # app.config["MAIL_USERNAME"]='sesidadi.nssc@gmail.com'
-# # app.config['MAIL_PASSWORD']='vzhk znds lpeq wlkf  '
+
 # app.config['MAIL_USERNAME'] = input("Enter your email: ")
 # app.config['MAIL_PASSWORD'] = input("Enter your password: ")
 # app.config['MAIL_USE_TLS']=False
